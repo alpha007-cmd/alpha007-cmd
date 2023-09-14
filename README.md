@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm alpha</h1>
+    <h1 align="center">Hi 👋, I'm alpha</h1>
 <h3 align="center">Am a B-Tech Second year Student</h3>
 
-<img align="right" alt="codding" width="400px" src="[https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)">
+<img align="right" alt="codding" width="400px" src="https://images-ext-1.discordapp.net/external/AfEu5j2qcFe7jlBcchB8dgIpF2NPe6_wIm0osL2VFII/https/cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?width=883&height=662">
 - 🌱 I’m currently learning **Java Script and lua**
 
 - 📫 How to reach me **a7hul.klinux.07@gmail.com**
