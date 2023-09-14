@@ -1,3 +1,4 @@
+![logo](https://github.com/alpha007-cmd/alpha007-cmd/blob/main/alpha.png)
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm alpha</h1>
