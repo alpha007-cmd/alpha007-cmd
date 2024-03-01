@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/alpha007-cmd/alpha007-cmd/blob/main/athul.png)
 
 <img align="right" alt="codding" width="400px" src="https://images-ext-1.discordapp.net/external/AfEu5j2qcFe7jlBcchB8dgIpF2NPe6_wIm0osL2VFII/https/cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?width=883&height=662">
 
