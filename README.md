@@ -7,7 +7,7 @@
 ### Hey there! 👋 I'm Alpha (Athul)
 
 🎓 A passionate **B.Tech Computer Science** student from **Indira Gandhi College of Engineering**  
-💻 Currently diving into the world of **JavaScript** and **Lua**  
+💻 Currently diving into the world of **JavaScript**,**PhP**and **Lua**  
 🛠️ Exploring **FiveM scripting**, **Discord bots**, and **web development**  
 📬 Reach me at: **a7hul.klinux.07@gmail.com**
 
