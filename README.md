@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently continuing my Btech<br>👯 I’m love to work on collaboration <br>
+🔭 I’m currently pursuing my B.Tech degree.<br>
+👯 I enjoy collaborating with others on innovative and impactful projects.<br>
 
 
 ## 🌐 Socials:
