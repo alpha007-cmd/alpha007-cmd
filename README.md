@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently continuing my Btech<br>👯 I’m love to work on collaboration <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently continuing my Btech<br>👯 I’m love to work on collaboration <br>
 
 
 ## 🌐 Socials:
