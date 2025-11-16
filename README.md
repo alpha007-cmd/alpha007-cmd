@@ -1,5 +1,5 @@
 # 💫 About Me 😊
-😊 Me Myself Dev</>
+😊 Me Myself Dev</> <br>
 🔭 I’m currently pursuing my B.Tech degree.<br>
 👯 I enjoy collaborating with others on innovative and impactful projects.<br>
 
